@@ -1,4 +1,4 @@
-package com.centerstone.repositryinfoservice;
+package com.centerstone;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.centerstone.repositryinfoservice;
+package com.centerstone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
